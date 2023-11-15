@@ -1,0 +1,17 @@
+{
+    "name": "josh/beatsaber_map_builder",
+    "type": "project",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "App\\Beatsaber\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Josh Freeman",
+            "email": "josh@viion.co.uk"
+        }
+    ],
+    "require": {}
+}
